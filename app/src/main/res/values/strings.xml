@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Game</string>
+    <string name="game_title">電腦猜拳</string>
+    <string name="com_play">電腦出拳</string>
+    <string name="player">玩家出拳</string>
+    <string name="you_win">你贏了</string>
+    <string name="you_lose">你輸了</string>
+    <string name="draw">平手</string>
+</resources>
